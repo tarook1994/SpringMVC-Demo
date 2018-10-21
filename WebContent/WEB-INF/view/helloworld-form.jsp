@@ -7,7 +7,7 @@
 <body>
 
 <h2>Heyyyyyy</h2>
-		<form action="processForm"  method="get" />
+		<form action="processFormv2"  method="get" />
 		
 		<input type = "text" name = "studentName" placeholder = "What is your name?"/>
 		<input type = "submit"/>

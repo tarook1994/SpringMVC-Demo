@@ -9,6 +9,6 @@
 <body>
 	Hello World of Spring
 	<br></br>
-	Student Name : ${param.studentName }
+	Student Name : YOOOO + ${name}
 </body>
 </html>
